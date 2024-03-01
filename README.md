@@ -1,45 +1,50 @@
 # jss-stu-Machine-Learning-lab
 
-Simple python program using conditional statements, looping , performing 
-operations such as Insert , Update, Delete, Display, Sorting and searching on 
-Datatypes like List, Tuple, Set, Dictionary. 
-3 
-2 Visualize the n-dimensional data using Scatter plots, box plot, heat maps, 
-contour plots, 3D surface plots using python packages. 
-3 
-3 a) Write a program to implement the Best First Search(BFS) algorithm. 
-b) Write a program to implement the A* algorithm. 
-3 
-4 Write a program to implement Min-Max algorithm and Alpha-beta pruning 
-algorithm. 
-3 
-5 Write a program to develop the Naive Bayes classifier for the k values as 
-3,5,7 based on split up of training and testing dataset as 90-10, 70-30 and 
-leave-one-out on, 
-a) Iris dataset 
-b) Titanic dataset 
-3 
-6 Write a program to develop the KNN classifier for the k values as 3,5,7 
-based on split up of training and testing dataset as 90-10, 70-30 and leave
-one-out on, 
-a) Glass dataset 
-b) Fruit dataset  
-using the different distance metrics like Euclidean and Manhattan distance. 
-3 
-7 Write a program to develop a decision tree classifier based on weather 
-forecasting dataset. 
-3 
-8 Write a program to perform unsupervised K-means clustering techniques 3 
-9 Write a program to perform agglomerative clustering based on single
-linkage, complete-linkage criteria 
-3 
-10 Write a program to develop Principal Component Analysis(PCA) and 
-Linear Discriminant Analysis(LDA) algorithms. 
-3 
- 
- 
-11 Write a Program to develop simple single layer perceptron to implement 
-AND, OR Boolean functions. 
-3 
-12 Write a program to develop Multi-layer perceptron to implement AND
-NOT, XOR Boolean functions. 
+## Simple Python Program
+
+This program showcases the usage of conditional statements, looping, and various operations on different data types such as List, Tuple, Set, and Dictionary. It includes functionalities like Insert, Update, Delete, Display, Sorting, and Searching.
+
+## Visualizing n-dimensional Data
+
+This section demonstrates how to visualize n-dimensional data using Python packages. It includes examples of Scatter plots, Box plots, Heat maps, Contour plots, and 3D surface plots.
+
+## Best First Search (BFS) and A* Algorithm
+
+This section provides implementations of the Best First Search (BFS) and A* algorithms.
+
+## Min-Max Algorithm and Alpha-Beta Pruning
+
+Here, you can find implementations of the Min-Max algorithm and Alpha-Beta pruning.
+
+## Naive Bayes Classifier
+
+Implementations of the Naive Bayes classifier for different values of k (3, 5, 7) are provided. It includes split-up scenarios of training and testing datasets as 90-10, 70-30, and leave-one-out. Datasets used are Iris and Titanic.
+
+## KNN Classifier
+
+This section contains implementations of the KNN classifier for different values of k (3, 5, 7). It includes split-up scenarios of training and testing datasets as 90-10, 70-30, and leave-one-out. Datasets used are Glass and Fruit, utilizing different distance metrics like Euclidean and Manhattan distance.
+
+## Decision Tree Classifier
+
+Here, you'll find an implementation of a decision tree classifier based on a weather forecasting dataset.
+
+## Unsupervised K-means Clustering
+
+An implementation of unsupervised K-means clustering techniques is provided.
+
+## Agglomerative Clustering
+
+Implementations of agglomerative clustering based on single linkage and complete linkage criteria are presented.
+
+## Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA)
+
+This section includes implementations of PCA and LDA algorithms.
+
+## Single Layer Perceptron
+
+A program to develop a simple single-layer perceptron to implement AND, OR Boolean functions.
+
+## Multi-layer Perceptron
+
+A program to develop a multi-layer perceptron to implement AND NOT, XOR Boolean functions.
+
